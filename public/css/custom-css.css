@@ -1,0 +1,27 @@
+.dropdown-content-lower-pos {
+	margin-top: 59px;
+}
+
+.lower-pos {
+	margin-top: 30px;
+}
+
+.null-line-height {
+	line-height: 14px !important;
+}
+
+.null-margin {
+	margin: 0 !important;
+}
+
+.min-low-margin {
+	margin-bottom: 0 !important;
+}
+
+.centering {
+	position: relative !important;
+}.centering .h-centered {
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+	}
