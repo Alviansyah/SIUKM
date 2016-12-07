@@ -60,7 +60,7 @@
 </header>
 
 <!-- Main Content -->
-
+<main>
 <div class="section-white">
     <div class="container">
         <div class="row">
@@ -69,7 +69,7 @@
         @yield('content')
     </div>
 </div>
-
+</main>
 <!-- Footer Section -->
 <footer class="page-footer teal darken-1">
     <div class="container">
@@ -99,7 +99,7 @@
 <!-- JS -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="/js/materialize.js"></script>
-<script type="text/javascript" src="/js/jq.js"></script>
+<script type="text/javascript" src="/js/custom-js.js"></script>
 <script type="text/javascript">
 $('.datepicker').pickadate({
 selectMonths: true, // Creates a dropdown to control month

@@ -1,5 +1,0 @@
-## Ngobrol disini aja.
-## Format chat..
-## Nama : ..chat..
-## Contoh :
-##		Alvian : ayo ngoding bareng rek...

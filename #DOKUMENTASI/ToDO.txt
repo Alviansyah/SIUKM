@@ -1,0 +1,17 @@
+#REVISI!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+KetuaPSSI:
+	^ notif terupdate & kegiatan blm disetujui
+	- menyetujui kelayakan pengajuan dana
+	- mengaktifkan/non-aktifkan ukm/ormawa
+PD2:
+	- verifikasi jumlah pengajuan dana
+BEM:
+	- create data ormawa [nama, visi-misi, status]
+UKM:
+	*ADART [Nama, SKPendirian, NomorSK, Visi, Misi]
+		- view PDF
+	*KEGIATAN [TglAwal, TglAkhir, DanaUsulan, DanaDirencanakan, DanaDiajukan, DanaDidapatkan]
+		- create dataPanitiaKegiatan [idKegiatan, Nama, Jabatan]
+		- create dataPesertaKegiatan [idKegiatan, Nama]

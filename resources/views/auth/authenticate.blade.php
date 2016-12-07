@@ -26,11 +26,11 @@
                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                 <!-- Desktop Plat -->
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="home.php">Homepage</a></li>
+                    <li><a href="#">Homepage</a></li>
                 </ul>
                 <!-- Mobile Plat -->
                 <ul class="side-nav" id="mobile-demo">
-                    <li><a href="home.php">Homepage</a></li>
+                    <li><a href="#">Homepage</a></li>
                 </ul>
             </div>
         </nav>
@@ -74,7 +74,7 @@
                                 <div class="row">
                                     <div class="input-field centered">
 
-                                        <input id="password" class="validate" type="password" name="password">
+                                        <input id="password" class="black-text validate" type="password" name="password">
                                         <label for="password">Password</label>
 
                                     </div>

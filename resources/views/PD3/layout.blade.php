@@ -88,7 +88,7 @@
 </header>
 
 <!-- Main Content -->
-
+<main>
 <div class="section-white">
     <div class="container">
         <div class="row">
@@ -97,7 +97,7 @@
         @yield('content')
     </div>
 </div>
-
+</main>
 <!-- Footer Section -->
 <footer class="page-footer teal darken-1">
     <div class="container">
